@@ -13,7 +13,7 @@ const Index = () => {
         <h1 className="text-5xl font-bold">Welcome to SaaS Startup</h1>
         <p className="text-xl text-muted-foreground">Revolutionizing the way you manage your business.</p>
         <Button size="lg" className="mt-4">Get Started</Button>
-        <img src="https://placehold.co/600x400" alt="placeholder" className="mx-auto mt-8" />
+        <img src="/images/whippet.jpg" alt="placeholder" className="mx-auto mt-8" />
       </section>
 
       {/* Features Section */}
